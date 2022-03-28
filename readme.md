@@ -11,7 +11,7 @@ cd fastdds_repos
 
 vcs import src < fastrtps.repos
 
-colcon build
+colcon build --merge-install --symlink-install
 
 
 
