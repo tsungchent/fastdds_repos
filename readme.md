@@ -3,6 +3,9 @@
 
 # import repos
 git clone git@github.com:tsungchent/fastdds_repos.git
+
 cd fastdds_repos
+
 vcs import src < fastrtps.repos
+
 colcon build
