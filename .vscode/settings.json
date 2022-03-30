@@ -96,6 +96,11 @@
         "xtr1common": "cpp",
         "xtree": "cpp",
         "xutility": "cpp",
-        "cxxopts": "cpp"
-    }
+        "cxxopts": "cpp",
+        "resumable": "cpp",
+        "*.idl": "cpp",
+        "*.inc": "cpp",
+        "filesystem": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
 }
