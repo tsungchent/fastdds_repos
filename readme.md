@@ -5,6 +5,7 @@ https://www.oracle.com/java/technologies/downloads/#java8
 
 - download bison from http://gnuwin32.sourceforge.net/packages/bison.htm
 - install bison (!!! don't install to filepath which contain space or bracket)
+- add bison to environment variance PATH
 
 # install dependencies
 ```
